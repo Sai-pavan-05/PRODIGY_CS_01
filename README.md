@@ -104,5 +104,3 @@ Key functions in `app.py`:
 📜 License
 
 This project is open-source under the **MIT License**.
-
-Would you like me to also **add a workflow diagram** (visual showing text input → encryption → output → decryption) inside the README for extra clarity?

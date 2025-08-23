@@ -1,16 +1,11 @@
-Got it ✅
-Here’s a **creative, beginner-friendly, and professional README** for your Caesar Cipher Streamlit tool:
-
----
-
-# 🔐 Caesar Cipher Tool
+🔐 Caesar Cipher Tool
 
 A simple yet powerful **Caesar Cipher encryption & decryption app** built with **Python + Streamlit**.
 This project lets you **securely transform your messages** by shifting letters through the classical Caesar Cipher technique—an ancient encryption method used by Julius Caesar himself! 🏛️
 
----
 
-## 📖 Project Overview
+
+📖 Project Overview
 
 The **Caesar Cipher Tool** provides an interactive way to **encrypt and decrypt messages** with just a few clicks.
 
@@ -19,9 +14,9 @@ The **Caesar Cipher Tool** provides an interactive way to **encrypt and decrypt 
 * Preserves **spaces, numbers, and special characters**.
 * Uses **session state** so you can directly decrypt after encrypting without retyping.
 
----
 
-## ✨ Features
+
+✨ Features
 
 ✅ Encrypt messages with a customizable shift (1–25).
 ✅ Decrypt instantly with the same shift.
@@ -29,9 +24,9 @@ The **Caesar Cipher Tool** provides an interactive way to **encrypt and decrypt 
 ✅ Real-time results in a clean UI.
 ✅ Beginner-friendly & easy to run locally.
 
----
 
-## 🖥️ How It Works
+
+🖥️ How It Works
 
 1. Enter your text message.
 2. Select a **shift value** (1–25).
@@ -46,36 +41,36 @@ Shift:      3
 Ciphertext: KHOOR
 ```
 
----
 
-## 🚀 Getting Started
 
-### 1. Clone the repo
+🚀 Getting Started
+
+1. Clone the repo
 
 ```bash
 git clone https://github.com/yourusername/caesar-cipher-tool.git
 cd caesar-cipher-tool
 ```
 
-### 2. Install dependencies
+2. Install dependencies
 
 ```bash
 pip install streamlit
 ```
 
-### 3. Run the app
+3. Run the app
 
 ```bash
 streamlit run app.py
 ```
 
-### 4. Open in browser
+4. Open in browser
 
 Visit 👉 `http://localhost:8501`
 
 ---
 
-## 📂 Code Structure
+📂 Code Structure
 
 ```
 caesar_cipher_tool/
@@ -89,9 +84,9 @@ Key functions in `app.py`:
 * `encrypt_caesar(text, shift)` → Encryption wrapper.
 * `decrypt_caesar(text, shift)` → Decryption wrapper.
 
----
 
-## 🎯 Use Cases
+
+🎯 Use Cases
 
 🔹 Learning basic cryptography concepts.
 🔹 Quick message encryption & decryption.
@@ -100,13 +95,13 @@ Key functions in `app.py`:
 
 
 
-## 📸 Demo Screenshot (Optional)
+📸 Demo Screenshot (Optional)
 
-*(Add a screenshot of the app running in Streamlit here)*
+![Demo Screenshot](images/Screenshot2025-08-23095234.png)
 
 
 
-## 📜 License
+📜 License
 
 This project is open-source under the **MIT License**.
 
